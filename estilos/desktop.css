@@ -11,6 +11,10 @@ lilais escuro #3E4375
         background-position: center center;
     }
 
+    form input[type=submit] {
+        width: 50%;
+    }
+
     section#login {
         width: 950px;
     }
@@ -34,4 +38,5 @@ lilais escuro #3E4375
     div#formulario p {
         font-size: 1.3em;
     }
+
 }

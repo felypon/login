@@ -10,6 +10,10 @@ lilais escuro #3E4375
         background-size: cover;
         background-position: center center;
     }
+    
+    form input[type=submit] {
+        width: 70%;
+    }
 
     section#login {
         width: 80vw;
