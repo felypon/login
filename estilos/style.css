@@ -114,7 +114,14 @@ form a.botao span {
     font-size: 0.8em;
 }
 
+div#cadastro {
+    display: block;
+    text-align: left;
+    font-size: .8em;
+}
+
 div#reset {
+    display: block;
     text-align: right;
     font-size: .8em;
     margin-top: 7px;
